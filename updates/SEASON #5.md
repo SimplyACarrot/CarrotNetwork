@@ -1,7 +1,7 @@
 # Season 5 | LightNetwork Migration Fail
 
-## GR 6.0.0 | Alpha 1 ||@everyone||
--# Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.
+## GR 6.0.0 | Alpha 1
+<sub>Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.</sub>
 - Sellwand Multi's added
 - Sellwand time limit removed
 - Economy revamp | ~10x decrease (prices and XP difficulty decreased accordingly)
@@ -118,7 +118,7 @@
 - Store has been temporarily migrated to the lightnetwork store, while a collaborative shop is in progress
 - Team limit has been **increased to 7**
 
-## GR 6.0.0 RR | Alpha ||@everyone||
+## GR 6.0.0 RR | Alpha
 - Rank Names Reverted
 - Credits have been renamed back to Carrots
 - Lootboxes have been renamed back to Crates
