@@ -1,0 +1,137 @@
+# Season 5 | LightNetwork Migration Fail
+
+## GR 6.0.0 | Alpha 1 ||@everyone||
+-# Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.
+- Sellwand Multi's added
+- Sellwand time limit removed
+- Economy revamp | ~10x decrease (prices and XP difficulty decreased accordingly)
+- Hanging signs added to shop
+- **Defense revamp**
+  - Bomb tiers replaced with bomb types
+    - Heavy Bomb (♦5,000) | 194dmg - 4 block radius
+    - Cluster Bomb (♦3,750) | 146dmg - 6 block radius
+    - Breacher bomb (♦2,500) | 97dmg - 4.5 block radius
+  - Turret Disruptor (♦1,800) added | Disable time 8s - 5.5 block radius
+    - Disables enemy turrets in range
+  - Instabreaker (♦10,000) added | Single use - 300-2,400 damage (RNG)
+  - Rocket Launcher (♦1,400) added | 113dmg - 12.96 playerdmg - 3.5 block radius
+    - Long range explosive rocket
+  - Semtex (♦8,000) added | 311 dmg - 6.48 playerdmg - 2.75 block radius
+    - Sticks to surfaces, high damage
+  - Explosive arrow (♦750) added | 113dmg - 3.5 block radius
+    - Fire from a bow or crossbow
+    - Explodes on impact
+  - Defense prices updated
+    - Tier 1 - 500hp
+    - Tier 2 - 1000hp
+    - Tier 3 - 1500hp
+    - Tier 4 - 2000hp
+    - Tier 5 - 2500hp
+    - Tier 5 - 3000hp
+    - Tier 7 - 3500hp
+    - Tier 8 - 4000hp
+  - Fake beacon ($15,000) added | Explodes on right click by enemy
+    - A fake beacon that lures enemy raiders
+    - Player damage only - no block damage.
+    - Pickupable by owner and team
+  - Small landmine (♦900) added | Defensive trap for enemy raiders
+  - Turret Prices increased
+    - Standard Turret - ♦2,500 -> ♦15,000
+    - Fire Turret - ♦5,000 -> ♦20,000
+    - Slowness Turret - ♦5,000 -> ♦20,000
+
+## GR 6.0.0 | Beta
+-# Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.
+- Rank names updated | I am aware this will make it confusing for some
+  - Enforcer has been renamed to Raider
+  - Raider has been renamed to Ravenger
+  - Warlord has been renamed to Enforcer
+  - Overlord has been renamed to Warlord
+  - Carrot has been **removed**.
+- Carrots have been renamed to Credits (Neutral for the merge)
+- Crates have been renamed to Lootboxes
+- Crate loot odds have been reworked (percentage instead of fraction chance)
+  - Supply Crate
+    - 100% | 4-10 Tier 1 Defense
+    - 100% | $1,000-$7,500
+    - 100% | ♦100-♦200
+    - 100% | 5-25 Shards
+    - 33%   | 1-2 Breacher Bomb
+    - 33%   | 1-2 Cluster Bomb
+    - 33%   | 1-5 Tier 1-3 Generators
+    - 4%     | Scout Rank
+  - Combat Crate
+    - 100% | $1,000-$2,500
+    - 100% | ♦200-♦400
+    - 100% | 10-30 Credits
+    - 50% | 8-16 Tier 1-2 Defense
+    - 22%   | 1-2 Breacher Bomb
+    - 22%   | 1-2 Cluster Bomb
+    - 22%   | 1-2 Heavy Bomb
+    - 33%   | 1-5 Tier 4-6 Generators
+  - Apex Crate
+    - 100% | $5,000-$10,500
+    - 100% | ♦250-♦750
+    - 100% | 20-45 Credits
+    - 50% | 12-24 Tier 2-3 Defense
+    - 22%   | 1-2 Cluster Bomb
+    - 22%   | 1-2 Heavy Bomb
+    - 22%   | 1-2 Rocket Launcher
+    - 33%   | 7-20 Tier 7-9 Generators
+    - 4%     | Raider Rank
+  - Dominion Crate
+    - 100% | $10,000-$20,500
+    - 100% | ♦750-♦12,50
+    - 50%   | 20-36 Tier 3-4 Defense
+    - 22%   | 1-2 Heavy Bomb
+    - 22%   | 1-2 Rocket Launcher
+    - 22%   | 1-2 Semtex
+    - 22%   | 1-2 Turret Disruptor
+    - 33%   | 12-25 Tier 10-12 Generators
+    - 2.5%  | Warlord Rank
+  - Ascendant Crate
+    - 100% | $17,500-$45,000
+    - 100% | ♦1,250-♦3,000
+    - 50%   | 28-44 Tier 4-5 Defense
+    - 22%   | 1-2 Semtex
+    - 22%   | 1-2 Turret Disruptor
+    - 22%   | 1-2 Explosive Arrow
+    - 25%   | 15-32 Tier 12-15 Generators
+    - 3.3%  | Warlord Rank
+  - Light Crate
+    - 100% | $60,000-$150,000
+    - 100% | ♦4,000-♦9,000
+    - 50%   | 40-64 Tier 5-6 Defense
+    - 22%   | 1-3 Semtex
+    - 22%   | 1-3 Turret Disruptor
+    - 22%   | 1-3 Explosive Arrow
+    - 20%   | 24-48 Tier 18-22 Generators
+    - 10%   | Scout Rank / Raider Rank / Ravenger Rank
+    - 5%    | Warlord Rank / Enforcer Rank / Overseer Rank
+- Shard top has been replaced with Team top (Top team overall balance)
+- Balance top has been replaced with Kill top
+- **Meteor event has been temporarily disabled** (Being Reworked | WIP)
+- GUI's have been redone to be cleaner and easier to use
+- **Tags have been temporarily disabled** (Being reworked to a network wide system)
+- KOTH has been added (experimental)
+- Players now start with a respawn beacon, wooden sword/pickaxe, and 4 tier 1 generators
+- Store has been temporarily migrated to the lightnetwork store, while a collaborative shop is in progress
+- Team limit has been **increased to 7**
+
+## GR 6.0.0 RR | Alpha ||@everyone||
+- Rank Names Reverted
+- Credits have been renamed back to Carrots
+- Lootboxes have been renamed back to Crates
+- Crate loot odds have been reverted
+- Light Crate has been replaced back with Carrot Crate
+- Teamtop has been reverted back to Shardtop (though will likely change in the near future, depending on community decisions)
+- Killtop has been reverted back to Baltop
+- GUI's have been reworked manually (reverting GUI functionality + additions)
+- Tags have been re-enabled
+- KOTH has been removed
+- Players now only start with a tier 1 generator
+- Team limit has been **Decreased to 6** (6 accounts total / alts considered teammates)
+- Anticheat now relies on ghost packets
+  - Removed the neccessity of a physical sign
+  - Sends/recieves fake data from the client to pull translatable information
+  - Multiple disallowed mods added
