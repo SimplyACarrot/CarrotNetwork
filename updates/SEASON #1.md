@@ -1,4 +1,4 @@
-# Season 2
+# Season 1
 ## Update 2.0.0 ALPHA 1
 - Store added to /shop (accessible via tab)
 - Defense trapdoors/doors are now upgradable
