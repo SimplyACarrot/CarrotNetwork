@@ -1,4 +1,4 @@
-# Season 1
+# Season BETA
 
 ## Update 1.1.0
 
