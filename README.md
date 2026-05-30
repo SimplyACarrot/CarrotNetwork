@@ -1,5 +1,5 @@
 # CarrotNetwork
-CarrotNetwork was a Minecraft server I created and maintained between October 2025, and May 2026. The server was of a compeditive gamemode called Genraid. CarrotNetwork grew to up to 113 players, and maintained over 100 players for its most active season. Throughout this project, I was responsible for almost every single aspect of its development, maintainence and management. This includes the skripting, design, hosting and community management.
+CarrotNetwork was a Minecraft server I created and maintained between October 2025, and May 2026. The server was a compeditive server focused on a gamemode called Genraid. CarrotNetwork grew to up to 113 players, and maintained over 100 players for its most active season. Throughout this project, I was responsible for almost every single aspect of its development, maintainence and management. This includes the skripting, design, hosting and community management.
 
 # Achievements
 - Designed and developed CarrotNetwork and ran it over a 7 month period.
@@ -73,3 +73,58 @@ Running CarrotNetwork taught me:
 - How to integrate multiple different languages and technologies into a single platform.
 - How to balance features, minimise bugs, and maintain server stability.
 - How much harder long-term project maintenance can become compared to the first part of development.
+
+## Screenshots
+
+### World & Gameplay
+
+#### Spawn
+
+![Spawn](screenshots/spawn.png)
+
+#### Map
+
+![Map](screenshots/map.png)
+
+#### Main Lobby
+
+![Lobby](screenshots/lobby.png)
+![Lobby2](screenshots/lobby2.png)
+
+#### Meteor Shower Event
+
+![Meteor Shower](screenshots/meteors.png)
+
+### GUIs
+
+#### Shop GUI
+
+![Shop](screenshots/shop.png)
+
+#### Carrot Store
+
+![Carrot Store](screenshots/carrotstore.png)
+
+#### Crate Store
+
+![Crate Store](screenshots/cratesstore.png)
+
+#### Rank Store
+
+![Rank Store](screenshots/rankstore.png)
+
+### Discord Integration
+
+![Discord Chat](screenshots/discordchat.png)
+
+#### Automated Punishment Logging
+
+![Punishments](screenshots/discordpunishments.png)
+
+#### Staff Punishment Verification
+
+![Staff Logs](screenshots/discordstaff.png)
+
+#### Staff Application System
+
+![Applications](screenshots/staffapplications.png)
