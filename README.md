@@ -49,30 +49,22 @@ The server consisted of many systems:
 
 These systems all worked with each other to create account linking, moderation logging, tickets, applications, discord to minecraft communication bridge, anti-cheat alerts, and management features.
 
-## Challenges Faced
+## My Role
 
-### Infrastructure Migration
+As the owner CarrotNetwork, and the only developer working solo, I was responsible for:
 
-After Minehut experienced reliability issues, I moved the server to an external hosting service while maintaining all player data and reducing downtime as much as possible.
+- Design and balancing
+- Skript development
+- Anti-cheat development
+- Discord bot development
+- Infastructure management
+- Hosting migration
+- Community management
+- Staff management
+- Feature planning and testing
 
-### Anti-Cheat Development
-
-I developed a packet based anti cheat system which could detecting modded clients, including all of their modifications which they had enabled, and a movement anticheat which prevented all wall clipping cheats while minimizing all false positives.
-
-### Community Scaling
-
-As the server grew, I automated moderation, support, and communication to reduce staff workload.
-
-## Lessons Learned
-
-Running CarrotNetwork taught me:
-
-- How to manage a service with actual users.
-- How to gather and implement community feedback.
-- How to design and devlop mechanics which I could use long-term.
-- How to integrate multiple different languages and technologies into a single platform.
-- How to balance features, minimise bugs, and maintain server stability.
-- How much harder long-term project maintenance can become compared to the first part of development.
+## Why I built CarrotNetwork
+I began the development of CarrotNetwork back in september of 2025. Previously to the development of CarrotNetwork, I was often hosting survival minecraft servers for me and my friends. I would always manage it, add custom features, and keep it stable. I always wanted to work on something like CarrotNetwork, and after some thinking with one of my good friends who later became the manager of this project, I began development on CarrotNetwork. This project I never intended on making money on. I started this project for fun, and hoped for it to gain some popularity, like an average Minehut server. It was unexpected when back in season 2, we were averaging over 100 players daily. This spike caused me to spend countless nights working on features, fixing bugs, helping members, managing staff, and much more. Juggling this project, along with spending time with my family and school was too much, which caused me to slowly become less active in my community and the development of CarrotNetwork. I knew the time had come, in which I shut down CarrotNetwork. I am proud of how well it did, what I learned from it, and the friends I made when developing this project. I intend on starting it backup in the future when I have more time and money on my hands, but for now, I put it down to rest.
 
 ## Screenshots
 
@@ -128,3 +120,28 @@ Running CarrotNetwork taught me:
 #### Staff Application System
 
 ![Applications](screenshots/staffapplications.png)
+
+## Challenges Faced
+
+### Infrastructure Migration
+
+After Minehut experienced reliability issues, I moved the server to an external hosting service while maintaining all player data and reducing downtime as much as possible.
+
+### Anti-Cheat Development
+
+I developed a packet based anti cheat system which could detecting modded clients, including all of their modifications which they had enabled, and a movement anticheat which prevented all wall clipping cheats while minimizing all false positives.
+
+### Community Scaling
+
+As the server grew, I automated moderation, support, and communication to reduce staff workload.
+
+## Lessons Learned
+
+Running CarrotNetwork taught me:
+
+- How to manage a service with actual users.
+- How to gather and implement community feedback.
+- How to design and devlop mechanics which I could use long-term.
+- How to integrate multiple different languages and technologies into a single platform.
+- How to balance features, minimise bugs, and maintain server stability.
+- How much harder long-term project maintenance can become compared to the first part of development.
