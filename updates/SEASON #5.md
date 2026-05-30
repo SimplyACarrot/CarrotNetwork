@@ -41,7 +41,7 @@
     - Slowness Turret - ♦5,000 -> ♦20,000
 
 ## GR 6.0.0 | Beta
--# Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.
+<sub>Most additions/changes in this alpha have not been specifically modified based on CarrotNetwork Genraid systems, but have been chosen to take on features and systems used by LightNetwork Genraid during the Genraid merge between our servers.</sub>
 - Rank names updated | I am aware this will make it confusing for some
   - Enforcer has been renamed to Raider
   - Raider has been renamed to Ravenger
