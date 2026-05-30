@@ -1,4 +1,5 @@
 # CarrotNetwork
+![Carrot](screenshots/carrot.png)
 CarrotNetwork was a Minecraft server I created and maintained between October 2025, and May 2026. The server was a compeditive server focused on a gamemode called Genraid. CarrotNetwork grew to up to 113 players, and maintained over 100 players for its most active season. Throughout this project, I was responsible for almost every single aspect of its development, maintainence and management. This includes the skripting, design, hosting and community management.
 
 # Achievements
