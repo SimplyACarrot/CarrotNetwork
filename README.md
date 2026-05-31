@@ -101,7 +101,7 @@ I began the development of CarrotNetwork back in september of 2025. Previously t
 
 #### Crate Store
 
-![Crate Store](screenshots/cratesstore.png)
+![Crate Store](screenshots/cratestore.png)
 
 #### Rank Store
 
@@ -113,7 +113,7 @@ I began the development of CarrotNetwork back in september of 2025. Previously t
 
 #### Automated Punishment Logging
 
-![Punishments](screenshots/discordpunishments.png)
+![Punishments](screenshots/discordpunishment.png)
 
 #### Staff Punishment Verification
 
