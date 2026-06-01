@@ -39,7 +39,7 @@ CarrotNetwork was a Minecraft server I created and maintained between October 20
 The server consisted of many systems:
 
 - Minecraft Server (PurpurMC 1.21.11)
-- Custom Skript gameplay systems
+- Custom Skript made mechanics
 - Skript Addons
 - Python Discord bot
 - Discord API integration
